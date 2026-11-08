@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.oddnumbered {
+    background-color: rgb(191, 119, 183);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.bigfont {
+    font-size: 24px;
+}
+
+#bigblue {
+    font-size: 36px;
+    color: rgb(15, 67, 112)
+}
+
+#boldgreen {
+    font-weight: 700;
+    background-color: rgb(50, 143, 50);
+    font-size: 24px;
+}
